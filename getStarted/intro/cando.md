@@ -1,4 +1,4 @@
-<p>The general-purpose, high-level Java programming language is a powerful software platform. Every full implementation of the Java platform gives you the following features:</p>
+# Java platform features
 
 * Development Tools
   * allow you, about your applications,
