@@ -6,5 +6,5 @@
       * folder / images
       * folder / scripts
   * allows
-    * projects easier to manage
+    * projects easier to manage (find, avoid naming conflicts, control access)
   * _Example:_ [Java Platform API](https://docs.oracle.com/en/java/javase/23/docs/api/index.html) == SEVERAL packages
