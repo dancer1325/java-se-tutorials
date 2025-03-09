@@ -38,3 +38,13 @@ class HelloWorldApp {
         System.out.println("Hello World!"); // Display the string.
     }
 }
+
+/**
+ * className are case sensitive!!
+ * COMMENT it, because `java HelloWorldApp` -> Error: Could not find or load main class HelloWorldApp
+ */
+/*class helloworldapp {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); // Display the string.
+    }
+}*/
